@@ -12,4 +12,6 @@ https://github.com/grayghostvisuals/practice-git
 insanely simple guides & tutorials
 http://rogerdudler.github.io/git-guide/
 
+visual git guide
+http://marklodato.github.io/visual-git-guide/index-en.html
 
