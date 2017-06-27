@@ -1,0 +1,15 @@
+useful note
+https://bueltge.de/git/
+
+git exercises, interactive tutorials
+http://gitexercises.fracz.com/
+http://learngitbranching.js.org/
+https://try.github.io/levels/1/challenges/10
+
+practice repo
+https://github.com/grayghostvisuals/practice-git
+
+insanely simple guides & tutorials
+http://rogerdudler.github.io/git-guide/
+
+
