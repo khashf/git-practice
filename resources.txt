@@ -14,4 +14,8 @@ http://rogerdudler.github.io/git-guide/
 
 visual git guide
 http://marklodato.github.io/visual-git-guide/index-en.html
+http://onlywei.github.io/explain-git-with-d3/
+
+handle conflict with git
+https://github.com/Kunena/Kunena-2.0
 

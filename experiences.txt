@@ -1,0 +1,7 @@
+## ignore pattern
+add to $GITDIR/.gitignore
+*.exe
+*.[ao] (exlude .a and .o, useful for C programming)
+libraries/* (exlude all file under $GITDIR/libraries/)
+
+## 
