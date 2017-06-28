@@ -19,3 +19,7 @@ http://onlywei.github.io/explain-git-with-d3/
 handle conflict with git
 https://github.com/Kunena/Kunena-2.0
 
+------
+
+Git Stash
+https://www.atlassian.com/git/tutorials/git-stash
