@@ -25,4 +25,6 @@ Git Stash
 https://www.atlassian.com/git/tutorials/git-stash
 
 Merging
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging#_checking_out_conflicts
+
